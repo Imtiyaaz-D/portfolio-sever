@@ -1,0 +1,17 @@
+{
+    "skills":[
+        {"HTML":90,
+        "CSS":85,
+        "JAVASCRIPT":50
+    }
+    ],
+    "education":[
+        {}
+    ],
+    "projects":[
+        {}
+    ],
+    "testimonials":[
+        {}
+    ]
+}
