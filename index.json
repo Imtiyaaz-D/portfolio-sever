@@ -19,7 +19,7 @@
     ],
     "education":[
         {
-            "Id":1,
+            "id":1,
         "Year":2020,
         "Descripition":"i passed my matric",
         "Place":"alexander sinton high school"
