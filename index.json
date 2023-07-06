@@ -3,21 +3,25 @@
         {
             "id":1,
             "type":"HTML",
+            "image":"https://i.postimg.cc/WbfqrVKF/html-logo2.png",
             "knowledge":"expert"
         },
         {
             "id":2,
             "type":"CSS",
+            "image":"https://i.postimg.cc/qvPLsyY3/css-logo2.png",
             "knowledge":"intermediate"
         },
         {
             "id":3,
             "type":"JAVASCRIPT",
+            "image":"https://i.postimg.cc/gJ88G7kS/js-logo2.png",
             "knowledge":"beginner"
         },
         {
             "id":4,
             "type":"VUE",
+            "image":"https://i.postimg.cc/XYsTgHWz/vue-logo.png",
             "knowledge":"intermediate"
         }
         
