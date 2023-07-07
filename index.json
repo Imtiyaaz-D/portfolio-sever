@@ -69,48 +69,48 @@
             "image":"https://i.postimg.cc/kXdM8G2f/Calculator.png",
             "title":"Calulator",
             "description":"A calculator",
-            "net-link":"https://superlative-mochi-d129d2.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/calculator.git"
+            "netlink":"https://superlative-mochi-d129d2.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/calculator.git"
         },
         {
             "id":2,
             "image":"https://i.postimg.cc/NjgNYXgr/TO-DO-LIST.png",
             "title":"To-do-list",
             "description":" To-do-list to manage your tasks",
-            "net-link":"https://rainbow-daffodil-1d1fca.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/todolistv3"
+            "netlink":"https://rainbow-daffodil-1d1fca.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/todolistv3"
         },
         {
             "id":3,
             "image":"https://i.postimg.cc/zvLXMvQL/BMI-Calculator.png",
             "title":"BMI Calculator",
             "description":"A BMI calculator, to check if you are healthy",
-            "net-link":"https://quiet-boba-51f08e.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/bmi_calculator.git"
+            "netlink":"https://quiet-boba-51f08e.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/bmi_calculator.git"
         },
         {
             "id":4,
             "image":"https://i.postimg.cc/pV7JCY2P/Converse-e-Commerce.png",
             "title":"Converse ecommerce",
             "description":"Conserve shopping website",
-            "net-link":"https://e-commerceimti.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/EOMP.git"
+            "netlink":"https://e-commerceimti.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/EOMP.git"
         },
         {
             "id":5,
             "image":"https://i.postimg.cc/L53pv4rP/Calender.png",
             "title":"Calender",
             "description":"A calender :)",
-            "net-link":"https://jovial-semolina-87cdec.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/calender.git"
+            "netlink":"https://jovial-semolina-87cdec.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/calender.git"
         },
         {
             "id":6,
             "image":"https://i.postimg.cc/T3PcF9Pp/animation.png",
             "title":"Animation project",
             "description":"an animation",
-            "net-link":"https://luminous-florentine-7eaabd.netlify.app/",
-            "git-link":"https://github.com/Imtiyaaz-D/Exer34.git"
+            "netlink":"https://luminous-florentine-7eaabd.netlify.app/",
+            "gitlink":"https://github.com/Imtiyaaz-D/Exer34.git"
         }
     ],
     "testimonials":[
