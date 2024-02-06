@@ -3,27 +3,40 @@
         {
             "id":1,
             "type":"HTML",
-            "image":"https://i.postimg.cc/WbfqrVKF/html-logo2.png",
+            "image":"https://iili.io/J1J9u8F.png",
             "knowledge":"Expert"
         },
         {
             "id":2,
             "type":"CSS",
-            "image":"https://i.postimg.cc/63HB9cYd/css-3.png",
+            "image":"https://iili.io/J1J9d37.png",
             "knowledge":"Intermediate"
         },
         {
             "id":3,
             "type":"JAVASCRIPT",
-            "image":"https://i.postimg.cc/gJ88G7kS/js-logo2.png",
+            "image":"https://iili.io/J1J96tj.png",
             "knowledge":"Intermediate"
         },
         {
             "id":4,
             "type":"VUE",
-            "image":"https://i.postimg.cc/1R0drpk6/vue3.png",
+            "image":"https://iili.io/J1J9ZKB.png",
+            "knowledge":"Intermediate"
+        },
+        {
+            "id":5,
+            "type":"NODEJS",
+            "image":"https://iili.io/J1JHFKN.png",
+            "knowledge":"Intermediate"
+        },
+        {
+            "id":6,
+            "type":"MYSQL",
+            "image":"https://iili.io/J1JJx71.png",
             "knowledge":"Intermediate"
         }
+
         
         
     ],
@@ -33,7 +46,7 @@
         "year":2020,
         "description":"I passed my matric",
         "place":"Alexander Sinton High School",
-        "image":"https://i.postimg.cc/TwZkYqP3/logo-214x215.jpg",
+        "image":"https://iili.io/J1HbWLN.jpg",
         "type": "certificate"
         },
         {  
@@ -41,7 +54,7 @@
             "year": 2021,
             "description": "I did my course on I.T tecnical support",
             "place": "Icollege",
-            "image":"https://i.postimg.cc/x1bCNZwn/icollege.png",
+            "image":"https://iili.io/J1HDYHG.png",
             "type": "certificate"
             
     },
@@ -49,16 +62,15 @@
         "id": 3,
         "year": 2022,
         "description": "I did a business adminstrative course",
-        "image":"https://i.postimg.cc/kgyQzB52/TSIBA.jpg",
+        "image":"https://iili.io/J1HD8iP.png",
         "place": "TSIBA",
         "type": "certificate"
-        
     },
     {
         "id": 4,
         "year": 2022,
         "description": "I worked for markhams part-time",
-        "image":"https://i.postimg.cc/MKvzMztM/Markhams-logo.jpg",
+        "image":"https://iili.io/J1HDVf9.jpg",
         "place": "Markhams",
         "type": "Job"
     }
@@ -98,11 +110,11 @@
         },
         {
             "id":5,
-            "image":"https://i.postimg.cc/L53pv4rP/Calender.png",
+            "image":"https://iili.io/J1HVFbS.png",
             "title":"Calender",
-            "description":"A calender :)",
-            "netlink":"https://jovial-semolina-87cdec.netlify.app/",
-            "gitlink":"https://github.com/Imtiyaaz-D/calender.git"
+            "description":"A Fresh Calendar",
+            "netlink":"https://imticalendarv23.netlify.app",
+            "gitlink":"https://github.com/Imtiyaaz-D/Fresh-calender"
         },
         {
             "id":6,
@@ -116,38 +128,38 @@
     "testimonials":[
         {
             "id":1,
-            "image":"https://i.postimg.cc/tTvm9krS/t0-1.jpg",
+            "image":"https://iili.io/J0iUzEx.jpg",
             "name":"Imraan Bernksen",
             "description":"I highly recommend Imtiyaaz, an aspiring web developer with a passion for creating stunning and functional websites. Imtiyaaz has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
         },
         {
             "id":2,
-            "image":"https://i.postimg.cc/tC7zLgS9/C12-C2-Codi-Kader-2.jpg",
+            "image":"https://iili.io/J0iU5p1.jpg",
             "name":"Codi Kader",
             "description":"Imtiyaaz, He is a very determined, passionate and kind young man. He is going to do great things in the IT sector. You can count on that.He works really well in a group or alone. He is able to adapt in any environment he is placed in. Once you get to know him you feel a sense of belonging as he is able to welcome you in with a warm and kind energy. Imti has a bubbly personality. This is a great addition to any workplace or business."
         },
         {
             "id":3,
-            "image":"https://i.postimg.cc/cCR4hz6v/C12-Keeno-Fourie-2.jpg",
+            "image":"https://iili.io/J0iUYTF.jpg",
             "name":"Keeno Fourie",
             "description":"Imtiyaaz Damon is a hard-working individual with a passion for web development. He is a skilled individual who is committed to what he does and determined to always succeed in everything he does. He is a great individual to have in your corner. He is an encouragement to everyone around him and will help anyone who needs it to the best of his ability. He will be a great asset to the team."
         },
         {
             "id":4,
-            "image":"https://i.postimg.cc/KzsW17b4/IMG-6957-1.jpg",
-            "name":"Uthmaan Samsodien",
+            "image":"https://iili.io/J1HZwru.jpg",
+            "name":"Summer De Wet",
             "description":"Imtiyaaz is a very positive person, always looking what he can do to upskill himself. He always asks questions to make sure he fully understands the work. He is good when working alone because he is always focused and doesn't procrastinate, when he is working in a group Imti is always bringing his part. He is good in HTML and CSS. He is always willing to help where he can and eager to learn new things. He is very well organized, which a good quality to have in a working enviroment."
         },
         {
             "id":5,
-            "image":"https://i.postimg.cc/CMc8fv9c/90928282-1613696178782933-8697521963691671552-n.jpg",
-            "name":"Jason Vailjoen",
+            "image":"https://iili.io/J1HGaTP.jpg",
+            "name":"Zubair Matthee",
             "description":"Working Imtiyaaz has been nothing short of a delight, he makes projects fun and engaging. He shows great potential and hunger for learning new skills, making the work place efficient. During the short time that we have worked together he has shown great interest in both front end and back end development, always coming up with new innovative ideas making him and asset to any team or company. He takes great care in all his projects and all around professionalism."
         },
         {
             "id":6,
-            "image":"https://i.postimg.cc/jd3mRmLk/picture3.jpg",
-            "name":"Jason Barron",
+            "image":"https://iili.io/J1H199I.jpg",
+            "name":"Marcel Brown",
             "description":" Imtiyaaz's professionalism and work ethic are unparalleled. They are highly reliable, consistently delivering work of the highest standard. Imtiyaaz demonstrates a strong sense of ownership and accountability, ensuring that projects are completed successfully and on time."
         }
     ]
