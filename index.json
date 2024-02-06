@@ -78,7 +78,7 @@
     "projects":[
         {
             "id":1,
-            "image":"https://i.postimg.cc/kXdM8G2f/Calculator.png",
+            "image":"https://iili.io/J1JCl3J.png",
             "title":"Calulator",
             "description":"A calculator",
             "netlink":"https://superlative-mochi-d129d2.netlify.app/",
@@ -86,7 +86,7 @@
         },
         {
             "id":2,
-            "image":"https://i.postimg.cc/NjgNYXgr/TO-DO-LIST.png",
+            "image":"https://iili.io/J1JCDuV.png",
             "title":"To-do-list",
             "description":" To-do-list to manage your tasks",
             "netlink":"https://rainbow-daffodil-1d1fca.netlify.app/",
@@ -94,7 +94,7 @@
         },
         {
             "id":3,
-            "image":"https://i.postimg.cc/zvLXMvQL/BMI-Calculator.png",
+            "image":"https://iili.io/J1JnH6g.png",
             "title":"BMI Calculator",
             "description":"A BMI calculator, to check if you are healthy",
             "netlink":"https://quiet-boba-51f08e.netlify.app/",
@@ -102,7 +102,7 @@
         },
         {
             "id":4,
-            "image":"https://i.postimg.cc/pV7JCY2P/Converse-e-Commerce.png",
+            "image":"https://iili.io/J1JnGcb.png",
             "title":"Converse ecommerce",
             "description":"Conserve shopping website",
             "netlink":"https://e-commerceimti.netlify.app/",
@@ -118,7 +118,7 @@
         },
         {
             "id":6,
-            "image":"https://i.postimg.cc/T3PcF9Pp/animation.png",
+            "image":"https://iili.io/J1Jnfup.png",
             "title":"Animation project",
             "description":"an animation",
             "netlink":"https://luminous-florentine-7eaabd.netlify.app/",
