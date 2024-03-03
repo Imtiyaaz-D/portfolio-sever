@@ -37,6 +37,53 @@
             "knowledge":"Learned at LifeChoices Coding Academy"
         }
     ],
+    "Ahievements":[
+        {
+            "id":1,
+            "name":"Operating Systems Basic",
+            "descripton":"Android, iOS , Linux , Mobile Network Connectivity , Operating System Security , Windows ",
+            "image":"https://iili.io/JMQWRh7.png"
+        },
+        {   
+            "id":2,
+            "name":"AWS Educate Introduction to Cloud 101",
+            "descripton":"Amazon Web Services(AWS), AWS Cloud, AWS Cloud Computing, Cloud Foundations",
+            "image":"https://iili.io/JMQhi7f.png"
+        },
+        {
+            "id":3,
+            "name":"Networking Basic'",
+            "description": "Application Layer Services, IPv4 Addresses, Network  Media , Network Types, Protocols Standards , Wireless Access",
+            "image":"https://iili.io/JMQs9oX.png"
+
+        },
+        {
+            "id":3,
+            "name":"Introduction to Cypersecurity",
+            "description": "Cyber Best Practices , Cypersecurity ,Network Vulnerabilities , Privacy and  Data Confidentiality ,  Threat Detection",
+            "image":"https://iili.io/JMQsksn.png"
+        },
+        {
+            "id":4,
+            "name":"Junior Cypersecurity Analyst Career Path",
+            "description": "Access Controls,Antimalware Protection,Application Security,Cloud Security,Commom Cyber Threats,Defending Systems And Devices,Defense-in-Depth,Firewalls,Host-based Intrusion Prevention,IP/TCP/UDP Vulnerabilities,Linux Basics",
+            "image":"https://iili.io/JMQsksn.png"
+        },
+        {
+            "id":5,
+            "name":"Network Techician Career Path",
+            "description":"Application Layer Services,Binary Systems,Cisco Devices,Cisco IOS,Cisco Routers,Cisco Switches,Cloud Services,Copper and Fiber Cabling,Documentation,Endpoint Devices",
+            "image":"https://iili.io/JMZJQLv.png" 
+         },
+         {
+            "id":6,
+            "name":"Python  Essentials 1",
+            "description":"Algorithmic Thinking,Analytical Thinking,Basic Python Programming,Best Practices in Programming,Computer Programming,Design, Develop, and Debug Scripts,Entry-level,Procedural Programming,Python",
+            "image":"https://iili.io/JMZTQQp.png"  
+         }
+           
+    ],
+
     "education":[
         {
         "id":1,
