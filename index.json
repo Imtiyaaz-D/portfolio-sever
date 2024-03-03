@@ -4,41 +4,38 @@
             "id":1,
             "type":"HTML",
             "image":"https://iili.io/J1J9u8F.png",
-            "knowledge":"Expert"
+            "knowledge":"Learned at LifeChoices Coding Academy"
         },
         {
             "id":2,
             "type":"CSS",
             "image":"https://iili.io/J1J9d37.png",
-            "knowledge":"Intermediate"
+            "knowledge":"Learned at LifeChoices Coding Academy"
         },
         {
             "id":3,
             "type":"JAVASCRIPT",
             "image":"https://iili.io/J1J96tj.png",
-            "knowledge":"Intermediate"
+            "knowledge":"Learned at LifeChoices Coding Academy"
         },
         {
             "id":4,
             "type":"VUE",
             "image":"https://iili.io/J1J9ZKB.png",
-            "knowledge":"Intermediate"
+            "knowledge":"ILearned at LifeChoices Coding Academy"
         },
         {
             "id":5,
             "type":"NODEJS",
             "image":"https://iili.io/J1JHFKN.png",
-            "knowledge":"Intermediate"
+            "knowledge":"Learned at LifeChoices Coding Academy"
         },
         {
             "id":6,
             "type":"MYSQL",
             "image":"https://iili.io/J1JJx71.png",
-            "knowledge":"Intermediate"
+            "knowledge":"Learned at LifeChoices Coding Academy"
         }
-
-        
-        
     ],
     "education":[
         {
